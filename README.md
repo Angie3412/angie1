@@ -1,2 +1,2 @@
-# angie1
-trabajo 1 con Django
+# Guia practica con Django
+guia #1 realizada con Django 
